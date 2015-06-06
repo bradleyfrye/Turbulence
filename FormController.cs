@@ -22,13 +22,14 @@ namespace Turbulence
 
         private void runApplication()
         {
+            
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
             // instantiate startPage
             _startPage = new StartPage();
 
-            Application.Run();
+            Application.Run(_startPage);
         }
 
         private void initializeObjects()
