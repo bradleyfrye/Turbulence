@@ -1,0 +1,7 @@
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\bin\Debug\Turbulence.exe
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\bin\Debug\Turbulence.pdb
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\obj\x86\Debug\Turbulence.Properties.Resources.resources
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\obj\x86\Debug\Turbulence.csproj.GenerateResource.Cache
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\obj\x86\Debug\Turbulence.exe
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\obj\x86\Debug\Turbulence.pdb
+C:\Users\Brad\documents\visual studio 2010\Projects\Turbulence\Turbulence\obj\x86\Debug\Turbulence.StartPage.resources
